@@ -18,3 +18,6 @@ tecken = """()paranteser
 ,komma
 \"dubbelfnutt
 \'enkelfnutt"""
+#print(tecken)
+
+
