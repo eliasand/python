@@ -36,11 +36,11 @@ elif operator == "d":
     if tal8 == 0:
         print("sluta")
     elif operator > 0:
-        tal7 = int(input("skriv tal: "))
-        tal8 = int(input("skriv ett till tal: "))
         kvot = tal7 / tal8
         print("varför gör du det är mot mig")
         print("min kvotering om denna kvot är: " + str(kvot))
+
+#division suger
 
 else: 
     
